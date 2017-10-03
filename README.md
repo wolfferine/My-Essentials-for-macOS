@@ -1,6 +1,3 @@
-# My Essentials for macOS
-
-
 <h1 align="center">My Essentials Apps for macOS 💻 </h1>
 
 <div align="center">
